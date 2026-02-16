@@ -1,0 +1,11 @@
+# AWS
+boto3
+botocore
+cryptography
+requests
+
+# Slack
+slack-sdk
+
+# Data processing
+pandas
